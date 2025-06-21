@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\bin\Debug\10-CrudIslemleri.exe.config
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\bin\Debug\10-CrudIslemleri.exe
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\bin\Debug\10-CrudIslemleri.pdb
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\obj\Debug\10-CrudIslemleri.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\obj\Debug\10-CrudIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\obj\Debug\10-CrudIslemleri.exe
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\obj\Debug\10-CrudIslemleri.pdb
+C:\Users\user\Desktop\Software Works\Udemy_kurs_murat_hoca_sıfırdan_c-sharp\C#_EgitimKampı\CSharpEgitimKampi\10-CrudIslemleri\10-CrudIslemleri\obj\Debug\10-CrudIslemleri.exe.config

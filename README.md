@@ -31,5 +31,7 @@ SQL bağlantısı kurarak veritabanından veri okudum ve ekranda listeleme işle
 📍 Proje 10 – Menü Sipariş Paneli (CRUD İşlemleri)
 Veritabanı üzerinde veri ekleme, listeleme, güncelleme ve silme işlemleri gerçekleştirdim. Temel CRUD işlemlerini öğrendim ve uyguladım.
 
+C# Eğitim Kampı Case 3 
+
 ![image](https://github.com/user-attachments/assets/a20b6a11-aaee-454a-9538-d3324c1c4c0e)
 
